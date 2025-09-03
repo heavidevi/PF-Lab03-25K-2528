@@ -23,9 +23,9 @@ Welcome to my GitHub! I'm a passionate developer with a strong interest in full-
 
 Feel free to check out my repositories, suggest improvements, or just say hi!
 
-- 🌐 [[https://portfolioreact-wheat.vercel.app/]](#) *(coming soon!)*
-- 📧 Email: [[aliadeel2k18@outlook.com]]
-- 💼 LinkedIn: [[https://www.linkedin.com/in/m-ali-adeel/(#)]]
+- 🌐 https://portfolioreact-wheat.vercel.app/
+- 📧 Email: aliadeel2k18@outlook.com
+- 💼 LinkedIn: https://www.linkedin.com/in/m-ali-adeel/
 
 ---
 
