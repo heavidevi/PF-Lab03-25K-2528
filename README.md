@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad
 
-Welcome to my GitHub! I'm a passionate developer with a strong interest in full-stack web development, especially using the **MERN stack** (MongoDB, Express.js, React, Node.js). I love building dynamic, scalable applications and exploring how code can solve real-world problems.
+Welcome to my GitHub! I'm a passionate developer with a strong interest in full-stack web development, especially using the **_MERN stack_** (MongoDB, Express.js, React, Node.js). I love building dynamic, scalable applications and exploring how code can solve real-world problems.
 
 ## 🚀 What I Do
 
@@ -19,13 +19,28 @@ Welcome to my GitHub! I'm a passionate developer with a strong interest in full-
 - Contributing to open-source projects
 - Writing technical blogs and tutorials
 
+## 📋 My Learning Goals
+
+1. Master advanced React patterns and hooks  
+2. Build scalable backend systems with Express and MongoDB  
+3. Contribute to open-source MERN projects  
+4. Explore DevOps tools for deployment and CI/CD  
+
+## ✅ Skills Checklist
+
+- JavaScript & ES6+
+- React & Redux
+- Node.js & Express
+- MongoDB & Mongoose
+- Git & GitHub
+
 ## 📫 Let's Connect
 
 Feel free to check out my repositories, suggest improvements, or just say hi!
 
-- 🌐 https://portfolioreact-wheat.vercel.app/
+- 🌐 [My Portfolio](https://portfolioreact-wheat.vercel.app/)
 - 📧 Email: aliadeel2k18@outlook.com
-- 💼 LinkedIn: https://www.linkedin.com/in/m-ali-adeel/
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/m-ali-adeel/)
 
 ---
 
