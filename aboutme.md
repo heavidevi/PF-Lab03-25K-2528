@@ -2,4 +2,4 @@
 
 **Name:** Ali Adeel  
 **Degree Program:** Data Science  
-**Hobby:** Random exploration — I enjoy diving into whatever catches my curiosity, from tech to trivia.
+*Hobby:* exploration — I enjoy diving into whatever catches my curiosity, from tech to trivia.
