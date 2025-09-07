@@ -6,10 +6,11 @@ Welcome to my GitHub! I'm a passionate developer with a strong interest in full-
 
 ## 🚀 What I Do
 
-- 🔧 Currently diving deep into **JavaScript** and **React** for front-end magic
-- 🛠️ Building RESTful APIs with **Node.js** and **Express**
-- 🗄️ Working with **MongoDB** to manage data efficiently
-- 💡 Exploring new tools and libraries to enhance development workflows
+1. 🔧 Currently diving deep into **JavaScript** and **React** for front-end magic  
+2. 🛠️ Building RESTful APIs with **Node.js** and **Express**  
+3. 🗄️ Working with **MongoDB** to manage data efficiently  
+4. 💡 Exploring new tools and libraries to enhance development workflows
+
 
 ## 🧠 Interests
 
