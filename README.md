@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad
 
-Welcome to my GitHub! I'm a passionate developer with a strong interest in full-stack web development, especially using the **_MERN stack_** (MongoDB, Express.js, React, Node.js). I love building dynamic, scalable applications and exploring how code can solve real-world problems.
+Welcome to my GitHub! I'm a passionate developer with a strong interest in full-stack web development, especially using the **_MERN stack (MongoDB, Express.js, React, Node.js)_**. I love building dynamic, scalable applications and exploring how code can solve real-world problems.
 
 ## 🚀 What I Do
 
